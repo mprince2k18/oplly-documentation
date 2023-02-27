@@ -1,0 +1,15 @@
+input: .
+output: .retype
+url: # Add your website address here
+branding:
+  title: Oplly
+  label: Docs
+links:
+- text: Jira
+  link: https://oplly.atlassian.net/jira/software/projects/OPW/boards/2
+- text: Code Repository
+  link: https://gitlab.com/oplly
+- text: Devstack Repository
+  link: https://gitlab.com/oplly
+footer:
+  copyright: "&copy; Copyright {{ year }} Oplly Ltd. All rights reserved."
