@@ -12,4 +12,4 @@ links:
 - text: Devstack Repository
   link: https://gitlab.com/oplly
 footer:
-  copyright: "&copy; Copyright {{ year }} Oplly Ltd. All rights reserved."
+  copyright: "&copy; Copyright {{ year }} Oplly App Ltd. All rights reserved."
